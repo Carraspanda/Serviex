@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PaginaPrueba", "PaginaPrueba", "{38AEDDEC-080C-4F90-B987-21EC981CEB8E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61274"
+		Debug.AspNetCompiler.PhysicalPath = "PaginaPrueba\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61274\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61274"
+		Release.AspNetCompiler.PhysicalPath = "PaginaPrueba\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61274\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61274"
+		SlnRelativePath = "PaginaPrueba\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{E9ABF2B5-7DBF-4593-BE49-1ACDAC66304D} = {E9ABF2B5-7DBF-4593-BE49-1ACDAC66304D}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicioPrueba", "ServicioPrueba", "{E9ABF2B5-7DBF-4593-BE49-1ACDAC66304D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53608"
+		Debug.AspNetCompiler.PhysicalPath = "ServicioPrueba\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53608\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53608"
+		Release.AspNetCompiler.PhysicalPath = "ServicioPrueba\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53608\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53608"
+		SlnRelativePath = "ServicioPrueba\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AEDDEC-080C-4F90-B987-21EC981CEB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AEDDEC-080C-4F90-B987-21EC981CEB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9ABF2B5-7DBF-4593-BE49-1ACDAC66304D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9ABF2B5-7DBF-4593-BE49-1ACDAC66304D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4409E946-6969-45CC-B958-25CA35E328E6}
+	EndGlobalSection
+EndGlobal
